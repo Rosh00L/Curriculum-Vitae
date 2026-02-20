@@ -121,14 +121,3 @@ Cyber Security • Virtualisation • Hyper‑V • Kali Linux • Nmap • Meta
 
 ## **References**
 Available upon request.
-
----
-
-If you want, I can also create:
-
-- a **shorter GitHub‑profile version**,  
-- a **PDF‑friendly version**,  
-- a **cyber‑security‑focused version** for apprenticeships,  
-- or a **skills‑matrix version** that highlights your transition into cyber security.
-
-Just tell me the style you want.
