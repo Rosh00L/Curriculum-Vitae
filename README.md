@@ -1,14 +1,11 @@
-# Curriculum-Vitae
-
----
-
 # **Roshan Ranadeerage**  
 **Junior Cyber Security Analyst**
 
 London, UK  
 +44 (0) 77 1000 400  
-Rosh00Lg@gmail.com	
-[Rosh00l.github.io](https://rosh00l.github.io/)
+XXXX00@gmail.com  
+[Rosh00l.github.io](https://rosh00l.github.io)
+
 
 ---
 
