@@ -1,7 +1,4 @@
-# Curriculum-VitaeHere is a **clean, polished, GitHub‑ready Markdown CV** based on your content.  
-I’ve structured it for readability, professionalism, and strong visual hierarchy — exactly what works well on GitHub profiles and portfolio repos.
-
-You can paste this directly into a `README.md` or a dedicated CV page.
+# Curriculum-Vitae
 
 ---
 
