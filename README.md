@@ -7,8 +7,8 @@
 
 London, UK  
 +44 (0) 77 1000 400  
-XXXX00@gmail.com  
-[CYYY00x.github.io](https://CYYY00x.github.io)
+Rosh00Lg@gmail.com	
+[Rosh00l.github.io](https://rosh00l.github.io/)
 
 ---
 
